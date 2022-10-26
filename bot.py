@@ -21,7 +21,6 @@ async def on_member_join(member):
 @client.event
 async def on_member_remove(member):
     member_name = str(member).split('#')[0]
-    print('left')
     channel = client.get_channel(401071542110388257)  # channela id
     await channel.send(f'> **{member_name}** finally pissed off')
 
