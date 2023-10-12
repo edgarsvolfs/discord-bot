@@ -1,1 +1,1 @@
-{"yeppinator#0076": 0, "Hjustons#2662": 0, "Randynator#0576": 10000000, "Mareks#2679": 200, "Heh.#7898": 0, "Cirvis#7552": 599, "Golub#2766": 100, "Sir Helpalot#7790": 900, "PatrickBateman27#4713": 0, "All Wise#8681": 0, "etunes#4040": 500, "Altyn#6807": 1100, "sv1nwalker54#4713": 100, "jocins1#1654": 100}
+{"user1#0": 0, "user2#0": 500}
