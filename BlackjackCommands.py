@@ -112,10 +112,6 @@ async def printResult(text, player, dealer, channel):
                            dealer.dealerPrint() + ' (' +
                            str(dealer.sumFirstCard()) + ')' + '\nhit or stay?') #f'\n> <:approvedmoment:1116670205763010671> to hit or ⛔ stay?')
 
-        reactions = ['👀', '⛔']
+        reactions = ['<:approvedmoment:1116670205763010671>', '⛔']
         for reaction in reactions:
             await message.add_reaction(reaction)
-
-        # reactions = ['<:approvedmoment:1116670205763010671>', '⛔']
-        # for reaction in reactions:
-        #     await message.add_reaction(reaction)
