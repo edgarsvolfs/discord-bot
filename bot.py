@@ -202,7 +202,7 @@ async def rob(ctx, member: discord.Member):
 
 # chrome version incompatibility?
 # os.environ[
-#   "OPENAI_API_KEY"] = "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"
+#   "OPENAI_API_KEY"] = ""
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # # Create ChromeOptions object
